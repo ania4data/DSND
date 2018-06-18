@@ -1,2 +1,2 @@
 # DSND
-This is despositoru for Udacity Nano degree, with quizzes and excercizes
+This is despository for Udacity Data Science Nano degree, with quizzes, excercises, and projects.
