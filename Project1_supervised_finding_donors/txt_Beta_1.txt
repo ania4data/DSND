@@ -1,0 +1,30 @@
+Beta=1
+
+{'train_time': 0.4487645626068115, 'pred_time': 0.024964570999145508, 'acc_train': 0.9666666666666667, 'acc_test': 0.8363736871199557, 'f_train': 0.9285714285714286, 'f_test': 0.6421663442940039}
+RandomForestClassifier trained on 36177 samples.
+
+{'train_time': 1.8649814128875732, 'pred_time': 0.0967409610748291, 'acc_train': 0.85, 'acc_test': 0.8576008844665561, 'f_train': 0.6218487394957983, 'f_test': 0.6739240506329114}
+AdaBoostClassifier trained on 36177 samples.
+
+{'train_time': 8.127229452133179, 'pred_time': 0.018983125686645508, 'acc_train': 0.8566666666666667, 'acc_test': 0.8630182421227197, 'f_train': 0.6324786324786325, 'f_test': 0.683686494766403}
+GradientBoostingClassifier trained on 36177 samples.
+
+{'train_time': 85.17930603027344, 'pred_time': 14.717668294906616, 'acc_train': 0.8533333333333334, 'acc_test': 0.8371475953565506, 'f_train': 0.6333333333333333, 'f_test': 0.6258572517145035}
+SVC trained on 36177 samples.
+
+{'train_time': 0.0947411060333252, 'pred_time': 0.020943164825439453, 'acc_train': 0.5933333333333334, 'acc_test': 0.5976782752902156, 'f_train': 0.5196850393700787, 'f_test': 0.5294193715246347}
+GaussianNB trained on 36177 samples.
+
+{'train_time': 0.2981712818145752, 'pred_time': 0.00598454475402832, 'acc_train': 0.8466666666666667, 'acc_test': 0.841901603095633, 'f_train': 0.6229508196721312, 'f_test': 0.6476096599310005}
+LogisticRegression trained on 36177 samples.
+
+
+{'train_time': 2.304835081100464, 'pred_time': 0.06981348991394043, 'acc_train': 0.9666666666666667, 'acc_test': 0.8424543946932007, 'f_train': 0.927536231884058, 'f_test': 0.6585190510424155}
+BaggingClassifier trained on 36177 samples.
+
+{'train_time': 0.10571694374084473, 'pred_time': 0.004987001419067383, 'acc_train': 0.7966666666666666, 'acc_test': 0.8110558319513543, 'f_train': 0.32967032967032966, 'f_test': 0.4161257259993167}
+SGDClassifier trained on 36177 samples.
+
+{'train_time': 5.474325180053711, 'pred_time': 0.032920122146606445, 'acc_train': 0.8533333333333334, 'acc_test': 0.8632393587617468, 'f_train': 0.6140350877192983, 'f_test': 0.6787847312386394}
+XGBClassifier trained on 36177 samples.
+
