@@ -1,0 +1,2 @@
+softmax , cross entropy formula plus UCLA admission with 2 layer of neural network (1 layer input +1 layer output), input has 6 feature after one-hot coding, 
+using cross entropy error or mean Euclidean**2 distance change error_formula, from w=w+alpha*x*(y-output) to w=w+alpha*x*(y-output)*(output)*(1-output)
